@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1491816701437" stop="1491816735375" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : Task_Denga</name>
+    <title>Default Suite : Task_Denga</title>
+    <test-cases>
+        <test-case start="1491816710406" stop="1491816719921" status="passed">
+            <name>testNegative[Non-existentUser@testserver.com,Non-existentUser@testserver.com]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value=" ID_0002 "/>
+                <label name="story" value="Negative tests"/>
+                <label name="host" value="USER-4B17A5787A"/>
+                <label name="thread" value="5284@USER-4B17A5787A.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1491816720921" stop="1491816722421" status="passed">
+            <name>testNegative[,]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value=" ID_0002 "/>
+                <label name="story" value="Negative tests"/>
+                <label name="host" value="USER-4B17A5787A"/>
+                <label name="thread" value="5284@USER-4B17A5787A.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1491816722437" stop="1491816724281" status="passed">
+            <name>testNegative[test@testserver.com,]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value=" ID_0002 "/>
+                <label name="story" value="Negative tests"/>
+                <label name="host" value="USER-4B17A5787A"/>
+                <label name="thread" value="5284@USER-4B17A5787A.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1491816725171" stop="0" status="passed">
+            <name>testNegative[,test@testserver.com]</name>
+            <labels>
+                <label name="testId" value=" ID_0002 "/>
+                <label name="story" value="Negative tests"/>
+                <label name="host" value="USER-4B17A5787A"/>
+                <label name="thread" value="5284@USER-4B17A5787A.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

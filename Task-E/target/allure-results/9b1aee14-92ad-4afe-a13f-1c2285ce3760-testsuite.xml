@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1489698430875" stop="1489698460843" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : EsphereTest</name>
+    <title>Default Suite : EsphereTest</title>
+    <test-cases>
+        <test-case start="1489698444734" stop="0" status="passed">
+            <name>checkEmptyAreaIsDisplayedAfterClickingSphereInformator</name>
+            <labels>
+                <label name="testId" value="Id-0003"/>
+                <label name="story" value="После нажатия на «Сфера Информатор» отображается пустая область результатов"/>
+                <label name="host" value="USER-4B17A5787A"/>
+                <label name="thread" value="5400@USER-4B17A5787A.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

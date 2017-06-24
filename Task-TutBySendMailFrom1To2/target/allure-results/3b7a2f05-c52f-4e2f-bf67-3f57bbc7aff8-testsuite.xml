@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1474493229843" stop="1474493290328" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : EpamTestTask</name>
+    <title>Default Suite : EpamTestTask</title>
+    <test-cases>
+        <test-case start="1474493239125" stop="0" status="passed">
+            <name>sendLetterFromThirdToFourthEmailFileCSV</name>
+            <labels>
+                <label name="host" value="USER-4B17A5787A"/>
+                <label name="thread" value="12464@USER-4B17A5787A.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1490735560781" stop="1490735599265" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : Crystal</name>
+    <title>Default Suite : Crystal</title>
+    <test-cases>
+        <test-case start="1490735571421" stop="1490735597593" status="passed">
+            <name>openBrowserOpenGoogleMailCheckInInboxSenderTopicContent</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value=" ID 0001 "/>
+                <label name="story" value=" 1) Открыть страницу почтового сервера; 
+  2) Залогиниться под заранее подготовленным пользователем;
+  3) Найти и открыть заранее подготовленное письмо из списка Входящих;
+  4) Проверить отправителя, тему и содержание письма;
+  5) Разлогиниться. "/>
+                <label name="host" value="USER-4B17A5787A"/>
+                <label name="thread" value="5776@USER-4B17A5787A.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

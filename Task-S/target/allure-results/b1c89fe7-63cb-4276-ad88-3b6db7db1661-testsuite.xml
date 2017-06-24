@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1478887918372" stop="1478887938571" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : FineDay</name>
+    <title>Default Suite : FineDay</title>
+    <test-cases>
+        <test-case start="1478887922441" stop="1478887938523" status="passed">
+            <name>startBrowserOpenTutBySearchAutomatedTestingLengthFindPositionDoAssert</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value=" ID 0001 "/>
+                <label name="story" value=" tut.by "/>
+                <label name="host" value="DESKTOP-AL6P92F"/>
+                <label name="thread" value="7544@DESKTOP-AL6P92F.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

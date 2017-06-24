@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1489844941828" stop="1489844983703" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : EsphereTest</name>
+    <title>Default Suite : EsphereTest</title>
+    <test-cases>
+        <test-case start="1489844967296" stop="1489844983500" status="passed">
+            <name>searchByNameSurnameTaxpayerMainstateregnumber</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value="Id-0001"/>
+                <label name="story" value="Поиск по: Названию, ФИО, ИНН, ОГРН. (за валидный поиск берётся текущий вывод вашего поискового запроса)"/>
+                <label name="host" value="USER-4B17A5787A"/>
+                <label name="thread" value="5188@USER-4B17A5787A.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

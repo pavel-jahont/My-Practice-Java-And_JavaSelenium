@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1491717709328" stop="1491717712046" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : Testing_RestAPI</name>
+    <title>Default Suite : Testing_RestAPI</title>
+    <test-cases>
+        <test-case start="1491717709421" stop="1491717711921" status="passed">
+            <name>testResponse</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value=" ID_0007 "/>
+                <label name="story" value=""/>
+                <label name="host" value="USER-4B17A5787A"/>
+                <label name="thread" value="960@USER-4B17A5787A.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
