@@ -41,7 +41,4 @@ public class Test_1 extends BaseData {
         WebElement element = driver.findElement(TITLE_ENTER);
         Assert.assertTrue(element.isDisplayed());
     }
-
-    // Отчет формируется в виде скриншотов в папке Screenshot
-
 }
